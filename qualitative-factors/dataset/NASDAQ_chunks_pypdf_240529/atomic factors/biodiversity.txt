@@ -1,0 +1,32 @@
+"Does the company assess its direct and indirect dependencies and impacts on biodiversity and ecosystems?"
+"Does the company incorporate biodiversity and ecosystem assessments into its policies?"
+"Does the company understand the state of ecosystems it depends on for natural resources and services?"
+"Has the company developed a strategy to address the business implications of ecosystem overexploitation or degradation?"
+"Does the company have a policy for managing critical habitats with the ambition of no net loss of biodiversity?"
+"For companies involved in agricultural value chains, do they have a policy for sustainable farming and a plan for implementation?"
+"Has the company taken action to eliminate deforestation and peatland loss from its business activities and value chains by 2025?"
+"Has the company committed to eliminating the conversion of other remaining natural ecosystems by 2030?"
+"Has the company identified material physical and transition risks related to biodiversity and ecosystems?"
+"Are these risks incorporated into the company's risk framework?"
+"Does the company manage its dependency on natural resources to ensure ecosystem sustainability?"
+Does the company engage with its value chain to seek circular economy solutions?
+Are biodiversity and ecosystems included in the company’s environmental impact assessments?
+Does the company adopt a precautionary approach where there is a risk of significant biodiversity and ecosystem impacts?
+Does the company disclose its processes to identify, assess, and manage material risks related to deforestation and other land use changes?
+For companies involved in agricultural value chains, do they work with suppliers to implement sustainable farming techniques?
+Does the company monitor suppliers that deliver forest-linked products to ensure adherence to best practices for environmental management?
+Disclosure and Reporting
+Does the company disclose whether and how biodiversity and ecosystems form part of its strategies, policies, and commitments?
+Does the company disclose any ecosystems it materially depends on?
+Are material impacts of the company’s activities, products, and services on biodiversity and ecosystems disclosed?
+For companies involved in agricultural value chains, do they regularly disclose information about their environmental footprint?
+Is the company transparent about its supply chains, including the geographic origin of commodities and levels of traceability?
+Engagement with Policymakers and Stakeholders
+Does the company have policies for engaging responsibly with policymakers and regulators on biodiversity and ecosystems?
+Is the company transparent about its position on evolving regulation relevant to its business?
+Does the company disclose and regularly review memberships of trade associations and interest groups?
+Does the company support the development of best practices to reduce adverse impacts on biodiversity and ecosystems?
+Does the company collaborate with stakeholders such as NGOs, local communities, and international institutions to reduce its operational impacts on biodiversity and ecosystems?
+Does the company respect the rights of indigenous people and local communities, including their right to free, prior, and informed consent?
+Does the company avoid disruptive operations in internationally recognized areas such as natural UNESCO World Heritage Sites?
+Does the company avoid contributing to the reduction of Critically Endangered or Endangered Species on the IUCN Red List of Threatened Species?

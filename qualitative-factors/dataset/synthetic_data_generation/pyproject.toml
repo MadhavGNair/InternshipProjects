@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "semantic-search"
+version = "0.1.0"
+description = ""
+authors = ["Madhav"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain = "^0.2.11"
+numpy = "^1"
+langchain-openai = "^0.1.19"
+openai = "^1.37.1"
+ipykernel = "^6.29.5"
+matplotlib = "^3.9.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
