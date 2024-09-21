@@ -10,15 +10,15 @@ import random
 #                 companies.append(company)
 #     return companies
 
-# table_name = 'mn_company'
-# primary_key = 'id'
+# table_name = ''
+# primary_key = ''
 
 # table = DatabaseEditor(
-#     user='nair6468',
-#     password='M@$tu4ig972',
+#     user='',
+#     password='',
 #     host='localhost',
 #     port='5432',
-#     dbname='devdb',
+#     dbname='',
 #     table=table_name,
 #     primary_key=primary_key
 # )
@@ -59,8 +59,8 @@ import csv
 db_params = {
     "host": "localhost",
     "database": "devdb",
-    "user": "nair6468",
-    "password": "M@$tu4ig972"
+    "user": "",
+    "password": ""
 }
 
 def get_company_id(cursor, company_name):

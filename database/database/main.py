@@ -1,26 +1,16 @@
 from database_editor import DatabaseEditor
 import pandas as pd
 
-'''
-TABLES LEFT TO POPULATE:
-    - doc
-    - paragraph
-    - sentence
-    - semantic_data
-    - query
-    - area
-'''
-
 # provide the table to connect to and its primary key
-table_name = 'mn_doc'
-primary_key = 'doc_hash'
+table_name = ''
+primary_key = ''
 
 table = DatabaseEditor(
-    user='nair6468',
-    password='M@$tu4ig972',
+    user='',
+    password='',
     host='localhost',
     port='5432',
-    dbname='devdb',
+    dbname='',
     table=table_name,
     primary_key=primary_key
 )
