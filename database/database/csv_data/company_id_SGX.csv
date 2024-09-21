@@ -1,0 +1,590 @@
+company_id,company_name
+1000,17LIVE Group Ltd
+1001,5E Resources Limited
+1002,8Telecom International Holdings Company Limited
+1003,9R Limited
+1004,A-SMART HOLDINGS LTD.
+1005,A-Sonic Aerospace Ltd
+1006,AA GROUP HOLDINGS LTD.
+1007,ABR Holdings Ltd
+1008,ABUNDANCE INTERNATIONAL LIMITED
+1009,ACCRELIST LTD.
+1010,ACESIAN PARTNERS LIMITED
+1011,ADVANCER GLOBAL LIMITED
+1012,AEM Holdings Ltd
+1013,AF GLOBAL LIMITED
+1014,AGV GROUP LIMITED
+1015,AJJ MEDTECH HOLDINGS LIMITED
+1016,ALITA RESOURCES LIMITED
+1017,ALLIANCE HEALTHCARE GROUP LTD
+1018,ALPHA DX GROUP LIMITED
+1019,ALSET INTERNATIONAL LIMITED
+1020,AMOS Group Limited
+1021,ANAN INTERNATIONAL LIMITED
+1022,AOXIN Q & M DENTAL GRP LIMITED
+1023,AP Oil International Ltd
+1024,APAC REALTY LIMITED
+1025,ASIA VETS HOLDINGS LTD.
+1026,ASL Marine Holdings Ltd
+1027,ASPEN (GROUP) HOLDINGS LIMITED
+1028,ASTAKA HOLDINGS LIMITED
+1029,ASTI Holdings Ltd
+1030,AUDIENCE ANALYTICS LIMITED
+1031,AVARGA LIMITED
+1032,AVJennings Ltd
+1033,AZTECH GLOBAL LTD.
+1034,Abundante Limited
+1035,Acma Ltd
+1036,AcroMeta Group Limited
+1037,Addvalue Technologies Ltd
+1038,Advanced Holdings Ltd.
+1039,Adventus Holdings Ltd
+1040,Aedge Group Limited
+1041,Alpina Holdings Limited
+1042,Amara Holdings Ltd
+1043,Amcorp Global Limited
+1044,Amplefield Ltd
+1045,Amtd Idea Group
+1046,Anchun International Holdings Ltd
+1047,AnnAik Ltd
+1048,Annica Holdings Ltd
+1049,Ara Us Hospitality Trust
+1050,Ascent Bridge Limited
+1051,Asia Enterprises Holding Ltd
+1052,Asia-Pacific Strategic Inv Ltd
+1053,Asiamedic Ltd
+1054,Asian Micro Holdings Ltd
+1055,Asian Pay Television Trust
+1056,Asiaphos Ltd
+1057,Asiatic Group Holdings Ltd
+1058,Aspial Corp Ltd
+1059,Aspial Lifestyle Limited
+1060,Atlantic Navigation Holdings
+1061,AusGroup Ltd
+1062,Avi-Tech Holdings Limited
+1063,Azeus Systems Holdings Ltd
+1064,BBR Holdings S Ltd
+1065,BEVERLY JCG LTD.
+1066,BH Global Corp Ltd
+1067,BIOLIDICS LIMITED
+1068,BOLDTEK HOLDINGS LIMITED
+1069,BRC Asia Ltd
+1070,BROOK CROMPTON HOLDINGS LTD
+1071,Bacui Technologies International Ltd.
+1072,"Baidu, Inc."
+1073,Baker Technology Ltd
+1074,Ban Leong Technologies Ltd
+1075,Banyan Tree Holdings Ltd
+1076,Bellatrix Exploration Ltd.
+1077,Beng Kuang Marine Ltd
+1078,Best World International Ltd
+1079,BlackGold Natural Resources Ltd
+1080,Bonvests Holdings Ltd
+1081,Boustead Singapore Ltd
+1082,British And Malayan Holdings Limited
+1083,Broadway Industrial Group Ltd
+1084,Bromat Holdings Ltd.
+1085,Bukit Sembawang Estates Ltd
+1086,Bumitama Agri Ltd
+1087,Bund Center Investment Ltd
+1088,CAMSING HEALTHCARE LIMITED
+1089,CDL HOSPITALITY TRUSTS
+1090,CFM Holdings Ltd
+1091,CH Offshore Ltd
+1092,CHARISMA ENERGY SERVICES LTD
+1093,CHEMICAL INDUSTRIES (F.E.) LTD
+1094,CHINA SUNSINE CHEMICAL HOLDINGS LTD.
+1095,CHOO CHIANG HOLDINGS LTD
+1096,CITY DEVELOPMENTS LTD NCCPS
+1097,CLEARBRIDGE HEALTH LIMITED
+1098,CNMC Goldmine Holdings Limited
+1099,COSCO SHIPPING INTERNATIONAL (SINGAPORE) CO LTD
+1100,CREATIVE TECHNOLOGY LTD
+1101,CREDIT BUREAU ASIA LIMITED
+1102,CSC Holdings Ltd
+1103,CSE Global Ltd
+1104,CapAllianz Holdings Limited
+1105,CapitaLand Investment Limited
+1106,Capital World Limited
+1107,Captii Ltd
+1108,Casa Holdings Ltd
+1109,Centurion Corporation Limited
+1110,Chasen Holdings Limited
+1111,China Aviation Oil (Singapore) Corporation Limited
+1112,China Environmental Resources Group Limited
+1113,China Everbright Water Limited
+1114,China Fishery Group Limited
+1115,China International Holdings Limited
+1116,China Kangda Food Company Limited
+1117,China Kunda Technology Holdings Limited
+1118,China Mining International Limited
+1119,China Shenshan Orchard Holdings Co. Ltd.
+1120,China Yuanbang Property Holdings Limited
+1121,Chuan Hup Holdings Ltd
+1122,City Developments Ltd
+1123,Civmec Ltd
+1124,Comba Telecom Systems Holdings Ltd.
+1125,Combine Will International Holdings Ltd
+1126,ComfortDelGro Corp Ltd
+1127,Cordlife Group Ltd
+1128,Cortina Holdings
+1129,CosmoSteel Holdings Ltd
+1130,Courage Investment Group Limited
+1131,DASIN RETAIL TRUST
+1132,DBS Group Holdings Ltd
+1133,DELFI LIMITED
+1134,DFI RETAIL GROUP HOLDINGS LIMITED
+1135,DIGILIFE TECHNOLOGIES LIMITED
+1136,DISA LIMITED
+1137,DON AGRO INTERNATIONAL LIMITED
+1138,Darco Water Technologies Ltd
+1139,Datapulse Technology Ltd
+1140,Debao Property Development Ltd
+1141,Del Monte Pacific Ltd
+1142,Dragon Group International Ltd
+1143,Duty Free International Ltd
+1144,Dyna-Mac Holdings Ltd
+1145,EINDEC CORPORATION LIMITED
+1146,EMERGING TOWNS&CITIES SING LTD
+1147,ENECO ENERGY LIMITED
+1148,ENVICTUS INTERNATIONAL HLDGLTD
+1149,ES Group Holdings Ltd
+1150,Econ Healthcare (Asia) Limited
+1151,Edition Ltd.
+1152,Ellipsiz Ltd
+1153,Emperador Inc.
+1154,EnGro Corp Ltd/Singapore
+1155,Enviro-Hub Holdings Ltd
+1156,Eurosports Global Ltd
+1157,Ever Glory United Holdings Limited
+1158,Ezra Holdings Ltd
+1159,FJ Benjamin Holdings Ltd
+1160,FORISE INTERNATIONAL LIMITED
+1161,FORTRESS MINERALS LIMITED
+1162,FRASERS PROPERTY LIMITED
+1163,Falcon Energy Group Ltd
+1164,Far East Group Limited
+1165,Far East Hospitality Trust
+1166,Far East Orchard Ltd
+1167,Federal International 2000 Ltd
+1168,Figtree Holdings Ltd
+1169,First Resources Ltd
+1170,First Sponsor Group Ltd
+1171,Food Empire Holdings Ltd
+1172,"Fraser and Neave, Limited"
+1173,Frasers Hospitality Trust
+1174,Frencken Group Ltd
+1175,Fu Yu Corp Ltd
+1176,Fuji Offset Plates Manufacturing Ltd
+1177,Full Apex (Holdings) Limited
+1178,Fuxing China Group Limited
+1179,GCCP RESOURCES LIMITED
+1180,GDS Global Ltd
+1181,GENTING SINGAPORE LIMITED
+1182,GHY CULTURE&MEDIA HLDG CO LTD
+1183,GKE Corp Ltd
+1184,GLOBAL INVACOM GROUP LIMITED
+1185,GLOBAL INVESTMENTS LIMITED
+1186,GLOBAL TESTING CORPORATION LTD
+1187,GP Industries Limited
+1188,GRAND VENTURE TECHNOLOGY LIMITED
+1189,GRP LTD
+1190,GS HOLDINGS LIMITED
+1191,GSH Corp Ltd
+1192,Gallant Venture Ltd
+1193,Geo Energy Resources Ltd
+1194,Golden Agri-Resources Ltd
+1195,Goodland Group Ltd
+1196,Grand Banks Yachts Ltd
+1197,Great Eastern Holdings Ltd
+1198,Green Build Technology Limited
+1199,Gss Energy Limited
+1200,GuocoLand Ltd
+1201,H2G Green Limited
+1202,HATTEN LAND LIMITED
+1203,HC SURGICAL SPECIALISTS LIMITED
+1204,HEALTHBANK HOLDINGS LIMITED
+1205,HG Metal Manufacturing Ltd
+1206,HIAP TONG CORPORATION LTD
+1207,HL Global Enterprises Ltd
+1208,HONG KONG LAND HOLDINGS LD
+1209,HONG LAI HUAT GROUP LIMITED
+1210,HRnetGroup Limited
+1211,HS OPTIMUS HOLDINGS LIMITED
+1212,HUATIONG GLOBAL LIMITED
+1213,HYPHENS PHARMA INTL LIMITED
+1214,Hafary Holdings limited
+1215,Hai Leck Holdings Ltd
+1216,Halcyon Agri Corp Ltd
+1217,Haw Par Corp Ltd
+1218,Heatec Jietong Holdings Ltd
+1219,Heeton Holdings Ltd
+1220,Helens International Holdings Company Limited
+1221,Hengyang Petrochemical Logistics Limited
+1222,Hiap Hoe Ltd
+1223,Hiap Seng Industries Limited
+1224,Ho Bee Land Ltd
+1225,Hock Lian Seng Holdings Ltd
+1226,Hoe Leong Corporation Ltd.
+1227,Hong Fok Corp Ltd
+1228,Hong Leong Asia Ltd
+1229,Hong Leong Finance Ltd
+1230,Hor Kew Corp Ltd
+1231,Hosen Group Ltd
+1232,Hotel Grand Central Ltd
+1233,Hotel Properties Ltd
+1234,Hotel Royal Ltd
+1235,Hotung Investment Holdings Limited
+1236,Hyflux Ltd
+1237,ICP Ltd
+1238,IFS Capital Ltd
+1239,IHH Healthcare Bhd
+1240,IMPERIUM CROWN LIMITED
+1241,INNOTEK LIMITED
+1242,IPC Corp Ltd
+1243,IPS SECUREX HOLDINGS LIMITED
+1244,ISEC HEALTHCARE LTD
+1245,ISOTEAM LTD
+1246,IX BIOPHARMA LTD.
+1247,Indofood Agri Resources Ltd
+1248,International Cement Group Ltd
+1249,Interra Resources Ltd
+1250,Intraco Ltd
+1251,Isdn Holdings Limited
+1252,Isetan Singapore Ltd
+1253,Iwow Technology Limited
+1254,JARDINE MATHESON HOLDINGS LD
+1255,JAWALA INC
+1256,JB Foods Ltd
+1257,JEP Holdings Ltd.
+1258,JES International Holdings Limited
+1259,JOYAS INTERNATIONAL HLDGS LTD
+1260,JUMBO GROUP LIMITED
+1261,Jadason Enterprises Ltd
+1262,Japan Foods Holding Ltd
+1263,Japfa Ltd
+1264,Jardine Cycle & Carriage Ltd
+1265,Jason Marine Group Ltd
+1266,Jasper Investments Ltd
+1267,Jiutian Chemical Group Limited
+1268,Jubilee Industries Holdings Ltd
+1269,KATRINA GROUP LTD.
+1270,KHONG GUAN LIMITED
+1271,KOP Limited
+1272,KSH Holdings Ltd
+1273,KTL Global Ltd
+1274,KTMG Limited
+1275,Karin Technology Holdings Ltd
+1276,Kencana Agri Ltd
+1277,Keong Hong Holdings Ltd
+1278,Keppel Ltd
+1279,Kim Heng Offshore & Marine Holdings Ltd
+1280,Kimly Limited
+1281,King Wan Corporation Limited
+1282,Kingsmen Creatives Ltd
+1283,Koda Ltd
+1284,Koh Brothers Eco Engineering Ltd
+1285,Koh Brothers Group Ltd
+1286,Kori Holdings Ltd
+1287,Koyo International Ltd
+1288,KrisEnergy Ltd
+1289,LHN Limited
+1290,LHT Holdings Ltd
+1291,LIVINGSTONE HEALTH HOLDINGS LIMITED
+1292,LMS COMPLIANCE LTD.
+1293,LY CORPORATION LIMITED
+1294,Leader Environmental Tech Ltd
+1295,Ley Choon Group Holdings Ltd
+1296,LifeBrandz Ltd
+1297,Lincotrade & Associates Holdings Limited
+1298,Lion Asiapac Limited
+1299,Lonza Group AG
+1300,Lorenzo International Ltd
+1301,Low Keng Huat Singapore Ltd
+1302,Ls 2 Holdings Limited
+1303,Lum Chang Holdings Ltd
+1304,Luminor Financial Holdings Limited
+1305,Luxking Group Holdings Limited
+1306,MANDARIN ORIENTAL INTERNATIONAL LD
+1307,"MARUWA CO.,LTD."
+1308,MC Payment Limited
+1309,MEDI LIFESTYLE LIMITED
+1310,MEDINEX LIMITED
+1311,MEGROUP LTD
+1312,MEMIONTEC HOLDINGS LTD
+1313,MINDCHAMPS PRESCHOOL LIMITED
+1314,MIYOSHI LIMITED
+1315,MM2 ASIA LTD.
+1316,MOOREAST HOLDINGS LTD.
+1317,MSM INTERNATIONAL LIMITED
+1318,MTQ Corp Ltd
+1319,MYP Ltd
+1320,Malaysia Smelting Corp Bhd
+1321,Manufacturing Integration Technology Ltd
+1322,Marco Polo Marine Ltd
+1323,Mary Chia Holdings Limited
+1324,Matex International Ltd
+1325,Medtecs International Corp Ltd
+1326,Megachem Ltd
+1327,Mencast Holdings Ltd
+1328,Mercurius Capital Investment
+1329,Mermaid Maritime PCL
+1330,Meta Health Limited
+1331,Metech International Ltd
+1332,Metis Energy Limited
+1333,Metro Holdings Ltd/Singapore
+1334,Mewah International Inc
+1335,Micro-Mechanics Holdings Ltd
+1336,Midas Holdings Limited
+1337,"Mitsubishi UFJ Financial Group, Inc."
+1338,"Mizuho Financial Group,Inc."
+1339,MoneyMax Financial Services Ltd
+1340,Multi-Chem Ltd
+1341,Mun Siong Engineering Limited
+1342,"Murata Manufacturing Co.,Ltd."
+1343,NANOFILM TECHNOLOGIES INTL LTD
+1344,NAUTICAWT LIMITED
+1345,NEW SILKROUTES GROUP LIMITED
+1346,NIO Inc.
+1347,NOONTALK MEDIA LIMITED
+1348,NSL Ltd/Singapore
+1349,NUTRYFARM INTERNATIONAL LTD
+1350,Nam Cheong Limited
+1351,Nam Lee Pressed Metal Industries Ltd
+1352,Natural Cool Holdings Ltd
+1353,Nera Telecommunications Ltd
+1354,Net Pacific Financial Holdings
+1355,"Netease, Inc."
+1356,New Toyo International Holdings Ltd
+1357,New Wave Holdings Ltd
+1358,Niks Professional Ltd.
+1359,Nippecraft Ltd
+1360,Noel Gifts International Ltd
+1361,"Nomura Holdings, Inc."
+1362,Nordic Group Limited
+1363,Ntegrator International Ltd
+1364,OIO HOLDINGS LIMITED
+1365,OKP Holdings Limited
+1366,OLIVE TREE ESTATES LIMITED
+1367,ONEAPEX LIMITED
+1368,OTS Holdings Limited
+1369,OUE Healthcare Limited
+1370,OUE Ltd
+1371,Ocean Sky International Ltd
+1372,Oceanus Group Ltd
+1373,Oiltek International Limited
+1374,Okh Global Ltd
+1375,Olam Group Limited
+1376,Old Chang Kee Ltd
+1377,Ossia International Ltd
+1378,Ouhua Energy Holdings Limited
+1379,Oversea-Chinese Banking Corporation Limited
+1380,Overseas Education Ltd
+1381,Oxley Holdings Ltd
+1382,PAN HONG HOLDING LIMITED
+1383,PARKSON RETAIL ASIA LIMITED
+1384,PEC Ltd
+1385,PNE Industries Ltd
+1386,POWERMATIC DATA SYSTEMS LTD
+1387,PROCURRI CORPORATION LIMITED
+1388,PROPNEX LIMITED
+1389,PROSPERCAP CORPORATION LIMITED
+1390,PSC Corporation Ltd
+1391,Pacific Andes (Holdings) Limited
+1392,Pacific Century Regional Developments Limited
+1393,Pacific Radiance Ltd
+1394,Pan-United Corp Ltd
+1395,Pasture Holdings Ltd
+1396,Pavillon Holdings Ltd
+1397,Penguin International Ltd
+1398,Pharmesis International Limited
+1399,Plato Capital Ltd
+1400,Polaris Ltd
+1401,Pollux Properties Ltd
+1402,Progen Holdings Ltd
+1403,Prudential PLC
+1404,Q&M Dental Group Singapore Ltd
+1405,QAF Ltd
+1406,Qian Hu Corp Ltd
+1407,Quantum Healthcare Limited
+1408,RAFFLES INFRASTRUCTURE HOLDINGS LIMITED
+1409,RE&S HOLDINGS LIMITED
+1410,RECLAIMS GLOBAL LIMITED
+1411,REGAL INTERNATIONAL GROUP LTD
+1412,RESOURCES GLOBAL DEVELOPMENT LIMITED
+1413,REVEZ CORPORATION LTD
+1414,RH PetroGas Ltd
+1415,RICH CAPITAL HOLDINGS LIMITED
+1416,RIVERSTONE HOLDINGS LIMITED
+1417,Raffles Education Limited
+1418,Raffles Medical Group Ltd
+1419,Renaissance United Limited
+1420,Rex International Holding Ltd
+1421,SAMURAI 2K AEROSOL LIMITED
+1422,SANLI ENVIRONMENTAL LIMITED
+1423,SATS Ltd
+1424,SBS Transit Ltd
+1425,SDAI Ltd
+1426,SECURA GROUP LIMITED
+1427,SEN YUE HOLDINGS LIMITED
+1428,SHOPPER360 LIMITED
+1429,SHS Holdings Ltd
+1430,SIA Engineering Co Ltd
+1431,SIIC Environment Holdings Ltd.
+1432,SIM LEISURE GROUP LTD.
+1433,SINGAPORE EXCHANGE LIMITED
+1434,SINGAPORE LAND GRP LIMITED
+1435,SINGAPORE MYANMAR INVESTCO LIMITED
+1436,SINOCLOUD GROUP LIMITED
+1437,SLB Development Ltd.
+1438,SOUTHERN ALLIANCE MINING LTD.
+1439,SOUTHERN PACKAGING GROUP LIMITED
+1440,SRI TRANG AGRO-INDUSTRY PUBLIC COMPANY LIMITED
+1441,SRI TRANG GLOVES (THAILAND)PCL
+1442,ST GROUP FOOD IND HLDG LIMITED
+1443,STE TransCore Holdings Inc
+1444,SUNRISE SHARES HOLDINGS LTD.
+1445,SUNTAR ECO-CITY LIMITED
+1446,SUTL ENTERPRISE LIMITED
+1447,Sakae Holdings Ltd.
+1448,Samko Timber Ltd
+1449,Samudera Shipping Line Ltd
+1450,Santak Holdings Limited
+1451,Sapphire Corp Ltd
+1452,Sarine Technologies Ltd
+1453,Seatrium Limited
+1454,Second Chance Properties Ltd
+1455,Sembcorp Industries Ltd
+1456,Serial System Limited
+1457,Sevens Atelier Limited
+1458,Shanaya Limited
+1459,Shanghai Turbo Enterprises Limited
+1460,Shangri-La Asia Ltd.
+1461,Sheffield Green Ltd.
+1462,Shen Yao Holdings Limited
+1463,Sheng Siong Group Ltd
+1464,Silverlake Axis Ltd
+1465,Sin Heng Heavy Machinery Ltd
+1466,Sinarmas Land Ltd
+1467,Sincap Group Limited
+1468,Sing Holdings Ltd
+1469,Sing Investments & Finance Ltd
+1470,Singapore Airlines Ltd
+1471,Singapore Institute Of Advanced Medicine Holdings Ltd
+1472,Singapore Kitchen Equipment Ltd
+1473,Singapore Paincare Holdings Ltd
+1474,Singapore Post Ltd
+1475,Singapore Shipping Corp Ltd
+1476,Singapore Telecommunications Ltd
+1477,Singapore Telecommunications Ltd
+1478,Singapura Finance Ltd
+1479,Sinjia Land Ltd
+1480,Sino Grandness Food Industry Group Limited
+1481,Sinostar Pec Holdings Limited
+1482,Sitra Holdings International Ltd
+1483,Soilbuild Construction Group Ltd
+1484,Soon Lian Holdings Ltd
+1485,Soup Holdings Limited
+1486,Southern Archipelago Ltd.
+1487,Spackman Entertainment Group Ltd
+1488,Spindex Industries Ltd
+1489,Stamford Land Corp Ltd
+1490,Stamford Tyres Corp Ltd
+1491,StarHub Ltd
+1492,Straco Corporation Limited
+1493,Straits Trading Co Ltd/Singapore
+1494,Sunmoon Food Co Ltd
+1495,Sunpower Group Limited
+1496,Sunright Ltd
+1497,TA Corporation Ltd
+1498,THE HOUR GLASS LIMITED
+1499,THE PLACE  HOLDINGS LIMITED
+1500,THE TRENDLINES GROUP LTD.
+1501,THOMSON MEDICAL GROUP LIMITED
+1502,TIH LIMITED
+1503,TOSEI CORPORATION
+1504,TOTM TECHNOLOGIES LIMITED
+1505,TRANS-CHINA AUTOMOTIVE HOLDINGS LIMITED
+1506,TRICKLESTAR LIMITED
+1507,TSH Corp Ltd
+1508,TT International Ltd
+1509,Tai Sin Electric Ltd
+1510,Taka Jewellery Holdings Limited
+1511,Talkmed Group Ltd
+1512,Tan Chong International Ltd.
+1513,Tat Seng Packaging Group Ltd
+1514,Teho International Inc Ltd
+1515,TeleChoice International Ltd
+1516,Thai Beverage PCL
+1517,Thakral Corp Ltd
+1518,Tianjin Pharmaceutical Da Ren Tang Group Corporation Limited
+1519,Tiong Seng Holdings Limited
+1520,Tiong Woon Corp Holding Ltd
+1521,Top Glove Corporation Bhd.
+1522,Travelite Holdings Ltd
+1523,Trek 2000 International Ltd
+1524,Trip.com Group Limited
+1525,Tritech Group Ltd/Singapore
+1526,Triyards Holdings Ltd
+1527,Tsh Resources Bhd
+1528,Tuan Sing Holdings Ltd
+1529,Tung Lok Restaurants 2000 Ltd
+1530,Tye Soon Ltd
+1531,UG HEALTHCARE CORPORATION LTD
+1532,UMS Holdings Ltd
+1533,UNI-ASIA FINANCE CORPORATION
+1534,UNION GAS HOLDINGS LIMITED
+1535,UNION STEEL HOLDINGS LIMITED
+1536,UOB-Kay Hian Holdings Ltd
+1537,UOL Group Ltd
+1538,USP GROUP LIMITED
+1539,UnUsUaL Limited
+1540,United Food Holdings Limited
+1541,United Overseas Australia Ltd
+1542,United Overseas Bank Limited
+1543,United Overseas Insurance Limited
+1544,Universal Resource & Svcs Ltd
+1545,V2Y CORPORATION LTD.
+1546,VCPLUS LIMITED
+1547,VIBRANT GROUP LIMITED
+1548,VIVIDTHREE HOLDINGS LTD.
+1549,Vallianz Holdings Ltd
+1550,Valuemax Group Ltd
+1551,Valuetronics Holdings Ltd
+1552,Vashion Group Ltd
+1553,Venture Corp Ltd
+1554,Versalink Holdings Ltd
+1555,Vibropower Corp Ltd
+1556,Vicom Ltd
+1557,Vicplas International Ltd
+1558,WINKING STUDIOS LIMITED
+1559,WONG FONG INDUSTRIES LIMITED
+1560,Wee Hur Holdings Ltd
+1561,Willas-Array Electronics (Holdings) Limited
+1562,Wilmar International Ltd
+1563,Wilton Resources Corp Ltd
+1564,Wing Tai Holdings Ltd
+1565,World Precision Machinery Limited
+1566,XMH Holdings Ltd
+1567,Y VENTURES GROUP LTD.
+1568,YHI International Ltd
+1569,YKGI LIMITED
+1570,Yamada Green Resources Limited
+1571,Yangzijiang Financial Holding Ltd.
+1572,Yangzijiang Shipbuilding (Holdings) Ltd.
+1573,Yangzijiang Shipbuilding (Holdings) Ltd.
+1574,Yanlord Land Group Limited
+1575,Yeo Hiap Seng Ltd
+1576,Ying Li International Real Estate Limited
+1577,Yoma Strategic Holdings Ltd
+1578,Yongmao Holdings Limited
+1579,Yongnam Holdings Ltd
+1580,Yunnan Energy International Co. Limited
+1581,ZHENENG JINJIANG ENVIRONMENT HOLDING COMPANY LIMITED
+1582,ZHONGMIN BAIHUI RETAIL GROUP LTD
+1583,ZHONGXIN FRUIT AND JUICE LIMITED
+1584,ZICO HOLDINGS INC.
+1585,Zixin Group Holdings Limited
+1586,ecoWise Holdings Ltd
+1587,iFAST Corporation Ltd.
+1588,mDR Ltd
