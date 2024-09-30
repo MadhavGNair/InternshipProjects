@@ -5,7 +5,7 @@ import numpy as np
 
 # # EXAMPLE 1: TO CREATE A TABLE (WITH AND WITHOUT FOREIGN KEYS)
 
-# db = DatabaseEditor("devdb", "nair6468", "M@$tu4ig972")
+# db = DatabaseEditor("db name", "username", "password")
 # db.connect()
 
 # # WITHOUT FOREIGN KEYS: create a table called 'mn_departments' with columns 'id' and 'name'
@@ -34,7 +34,7 @@ import numpy as np
 # # EXAMPLE 2: TO INSERT DATA TO TABLE
 
 # connect to the database
-# db = DatabaseEditor("devdb", "nair6468", "M@$tu4ig972")
+# db = DatabaseEditor("db name", "username", "password")
 # db.connect()
 
 # # insert a single row into the 'mn_departments' table
@@ -81,7 +81,7 @@ import numpy as np
 
 # # EXAMPLE 3: UPDATING THE DATABASE
 # # connect to the database
-# db = DatabaseEditor("devdb", "nair6468", "M@$tu4ig972")
+# db = DatabaseEditor("db name", "username", "password")
 # db.connect()
 
 # # update the name of the "Marketing" department to "Digital Marketing"
@@ -112,7 +112,7 @@ import numpy as np
 
 # # EXAMPLE 4: DELETING FROM THE DATABASE (ROW AND TABLE)
 # # connect to the database
-# db = DatabaseEditor("devdb", "nair6468", "M@$tu4ig972")
+# db = DatabaseEditor("db name", "username", "password")
 # db.connect()
 
 # # delete a single row to remove a specific department
